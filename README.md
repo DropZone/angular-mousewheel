@@ -4,6 +4,6 @@ Typescript version for angular mousewheel
 
 usage
 
-<pre><code>
-	<div id="wheelable" ng-mousewheel="handleMouseWheel"></div>
-</code></pre>
+```html
+<div id="wheelable" ng-mousewheel="handleMouseWheel"></div>
+```
